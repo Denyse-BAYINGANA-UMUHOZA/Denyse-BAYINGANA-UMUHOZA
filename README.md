@@ -5,5 +5,5 @@ I am a data analyst with a strong background in IT and a passion for turning com
 -   **🔭 I'm currently working on:** Building out my data analytics portfolio, with a focus on real-world datasets and business problems.
 -   **🌱 I'm constantly learning:** Advanced data visualization techniques and machine learning fundamentals.
 -   **💼 I'm open to:** Opportunities in data analysis and business intelligence.
--   **💬 Let's connect:** Feel free to reach out to me on my LinkedIn[www.linkedin.com/in/denyse-bayingana-970727246]or Email[umuhozabayinganadenyse@gmail.com] or portfolio[https://bayingana-portfolio.netlify.app/]
+-   **💬 Let's connect:** Feel free to reach out to me on my Email[umuhozabayinganadenyse@gmail.com] or LinkedIn[www.linkedin.com/in/denyse-bayingana-970727246]or portfolio[https://bayingana-portfolio.netlify.app/]
 .
